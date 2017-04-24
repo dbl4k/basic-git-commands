@@ -8,12 +8,13 @@ Initialize git local repo
 ```
 git init
 ```
-Stage All (-A) Newly Created  Files, ready for Local Commit
+Stage All (-A), ready for Local Commit
 --
 ```
-Stage Current (.) Newly Created Directory, ready for Local Commit
+git add -A
 ```
-*or just add currentdirectory*
+Stage Current Dir (.), ready for Local Commit
+---
 ```
 git add .
 ```
