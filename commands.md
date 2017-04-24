@@ -68,3 +68,8 @@ Delete Branch
 ```
 git branch -D list
 ```
+Push to branch upstream (This is done once)
+--
+```
+git push --set-upstream origin secondary
+```
