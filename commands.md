@@ -23,7 +23,7 @@ Commit to Local Repo, with Comment
 ```
 git commit -m "first commit"
 ```
-Add Remote Origin Repo (applicable if you used Iinit rather than Clone)
+Add Remote Origin Repo (applicable if you used Git Init rather than Git Clone)
 --
 ```
 git remote add origin https://github.com/dbl4k/basic-git-commands.git
