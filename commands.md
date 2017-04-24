@@ -68,3 +68,7 @@ Delete Branch
 ```
 git branch -D list
 ```
+Pull Latest (non-forceful)
+```
+git pull
+```
