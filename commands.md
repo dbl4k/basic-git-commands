@@ -43,3 +43,28 @@ Get Help with Git Push (opens in browser)
 ```
 git push --help
 ```
+Create Branch
+---
+```
+git branch secondary
+```
+Create and Switch To Branch
+---
+```
+git checkout -b secondary
+```
+Switch to Existing Branch
+---
+```
+git checkout secondary
+```
+Check The Current Working Branch
+---
+```
+git branch
+```
+Delete Branch
+---
+```
+git branch -D list
+```
