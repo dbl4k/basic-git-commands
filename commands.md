@@ -32,7 +32,12 @@ Change Remote Origin Repo
 ```
 git push -u origin master
 ```
-Gt Help with Git Push (opens in browser)
+Simply push all Local Commits to Remote
+---
+```
+git push
+```
+Get Help with Git Push (opens in browser)
 --
 ```
 git push --help
