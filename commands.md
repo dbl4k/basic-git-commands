@@ -85,5 +85,3 @@ Pull Latest (Non-Forceful)
 ```
 git pull
 ```
-
-testing
