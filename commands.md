@@ -80,3 +80,10 @@ Delete Branch
 ```
 git branch -D list
 ```
+Pull Latest (Non-Forceful)
+---
+```
+git pull
+```
+
+testing
